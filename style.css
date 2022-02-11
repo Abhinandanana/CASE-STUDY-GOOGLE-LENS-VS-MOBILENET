@@ -1,0 +1,49 @@
+#hi {
+    background-color: grey;
+    color: white;
+    margin-top: 70px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px black;
+}
+img {
+    width: 200px;
+}
+#xyz {
+    margin-top: 70px;
+    background-color: skyblue;
+    color: white;
+}
+#app_name{
+    color:red;
+}
+#v{
+    color: red;
+    font-weight: bold;
+}
+#output{
+    border-bottom: 5px;
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#object {
+    color: red;
+    font-weight: bold;
+}
+#re {
+    margin-top: 80px;
+}
+#con {
+    color:red;
+    font-weight: bold;
+}
+#hi1 {
+    background-color: grey;
+    color: white;
+    margin-top: 70px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px black;
+    margin-bottom: 70px;
+}
